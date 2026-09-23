@@ -57,7 +57,7 @@
 <img src="https://img.shields.io/badge/-Laravel-000?&amp;logo=Laravel" alt="Laravel">
 <img src="https://img.shields.io/badge/-Node.js-000?&amp;logo=Node.js" alt="Node.js">
 <img src="https://img.shields.io/badge/-Flutter.js-000?&amp;logo=Flutter.js" alt="Flutter.js">
-<img src="https://img.shields.io/badge/-React Native.js-000?&amp;logo=React Native.js" alt="React Native.js">
+<img src="https://img.shields.io/badge/-Reactnative.js-000?&amp;logo=Reactnative.js" alt="React Native.js">
 <img src="https://img.shields.io/badge/-.NET.js-000?&amp;logo=.NET.js" alt=".NET.js">
 
 <h3 id="misc-tools">Misc tools:</h3>
