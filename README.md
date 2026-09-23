@@ -10,13 +10,13 @@
 <p>🔭 I’m currently working on: <strong>My side projects</strong></p>
 </li>
 <li>
-<p>🌱 I’m currently learning: <strong>MERN stack</strong></p>
+<p>🌱 I’m currently learning: <strong>ML and DL</strong></p>
 </li>
 <li>
 <p>👯 I’m looking to collaborate on: <strong>Interesting open source projects</strong></p>
 </li>
 <li>
-<p>💬 Ask me about: <strong>Java, SpringBoot, Express</strong></p>
+<p>💬 Ask me about: <strong>JavaScript, React.js, Next.js</strong></p>
 </li>
 <li>
 <p>📫 How to reach me: <strong>Drop me an email at <a href="mailto:ravenmarciano1@gmail.com">ravenmarciano1@gmail.com</a></strong></p>
